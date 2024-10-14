@@ -10,18 +10,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - http => https ([fabe097](https://github.com/kimxogus/react-native-version-check/commit/fabe097a14d8a03c4c42b9111750731f26d26a60))
 - playStore's market version tokens ([fbff7a9](https://github.com/kimxogus/react-native-version-check/commit/fbff7a915b45461edb62af114659c88697f0a3d4))
 - **AppStoreProvider:** use getCountry ([23dd4f0](https://github.com/kimxogus/react-native-version-check/commit/23dd4f0109c338b6c583fa4d40f0b18683e42490))
-- **docs:** expo usage ([9ecff95](https://github.com/kimxogus/react-native-version-check/commit/9ecff957f6fc42afa64f69e28565c97fa29ab18e))
-- **expo:** rename getCountryAsync to getCountry ([e55e3ff](https://github.com/kimxogus/react-native-version-check/commit/e55e3ff889aa5d980349ac400e928d487b9b36c0))
 - **getStoreUrl:** fix getAppStoreUrl ([dc7a4af](https://github.com/kimxogus/react-native-version-check/commit/dc7a4af12ac81f3e1a96a70fd2071f53cdf6a2e1))
 - **needUpdate:** remove semver.clean ([23e038f](https://github.com/kimxogus/react-native-version-check/commit/23e038f11155961ae1a8dc2d1556421e2ecc79e0))
 
 ### Features
 
 - add namespace ([4bd4248](https://github.com/kimxogus/react-native-version-check/commit/4bd42489265e1e28cb9a42204c70d9dacfec8061))
-- add support for expo sdk v33 ([#88](https://github.com/kimxogus/react-native-version-check/issues/88)) ([1aa8d9a](https://github.com/kimxogus/react-native-version-check/commit/1aa8d9a9197f86b6a1434d6f65f3a208c433dd4d))
-- **docs:** update readme ([25883ee](https://github.com/kimxogus/react-native-version-check/commit/25883ee197c690ae549254d1afecf8c9eaa5cbce))
-- **react-native-version-check-expo:** update rnvc ([9fdf131](https://github.com/kimxogus/react-native-version-check/commit/9fdf1313c9493c27e019da252a2af837cd858d2c))
-- bump rnvc ([2323829](https://github.com/kimxogus/react-native-version-check/commit/2323829e0ae82842d9295ed7e0b22d816e1c6138))
 - fix builder definition and flowtypes ([7efe08b](https://github.com/kimxogus/react-native-version-check/commit/7efe08b0bccf7a33aab81009bc0236ab456b7e3e))
 
 ## [3.2.1](https://github.com/kimxogus/react-native-version-check/compare/v3.2.0...v3.2.1) (2019-05-17)
@@ -33,5 +27,92 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 **Note:** Version bump only for package react-native-version-check
 
 ## [3.2.1](https://github.com/kimxogus/react-native-version-check/compare/v3.2.0...v3.2.1) (2019-05-17)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.1.0"></a>
+
+# [3.1.0](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.4...react-native-version-check@3.1.0) (2019-04-29)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.4"></a>
+
+## [3.0.4](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.3...react-native-version-check@3.0.4) (2019-04-22)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.3"></a>
+
+## [3.0.3](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.2...react-native-version-check@3.0.3) (2018-12-06)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.2"></a>
+
+## [3.0.2](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.1...react-native-version-check@3.0.2) (2018-10-06)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.1"></a>
+
+## [3.0.1](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0...react-native-version-check@3.0.1) (2018-09-21)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.0-rc.5"></a>
+
+# [3.0.0-rc.5](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-rc.4...react-native-version-check@3.0.0-rc.5) (2018-04-18)
+
+### Bug Fixes
+
+- playStore's market version tokens ([fbff7a9](https://github.com/kimxogus/react-native-version-check/commit/fbff7a9))
+
+<a name="3.0.0-rc.4"></a>
+
+# [3.0.0-rc.4](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-rc.3...react-native-version-check@3.0.0-rc.4) (2018-03-30)
+
+### Bug Fixes
+
+- http => https ([fabe097](https://github.com/kimxogus/react-native-version-check/commit/fabe097))
+
+<a name="3.0.0-rc.3"></a>
+
+# [3.0.0-rc.3](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-rc.2...react-native-version-check@3.0.0-rc.3) (2018-03-23)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.0-alpha.3"></a>
+
+# [3.0.0-alpha.3](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-alpha.2...react-native-version-check@3.0.0-alpha.3) (2018-02-24)
+
+### Bug Fixes
+
+- **AppStoreProvider:** use getCountry ([23dd4f0](https://github.com/kimxogus/react-native-version-check/commit/23dd4f0))
+- **needUpdate:** remove semver.clean ([23e038f](https://github.com/kimxogus/react-native-version-check/commit/23e038f))
+
+<a name="3.0.0-alpha.2"></a>
+
+# [3.0.0-alpha.2](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-alpha.1...react-native-version-check@3.0.0-alpha.2) (2018-02-17)
+
+### Features
+
+- fix builder definition and flowtypes ([7efe08b](https://github.com/kimxogus/react-native-version-check/commit/7efe08b))
+
+<a name="3.0.0-alpha.1"></a>
+
+# [3.0.0-alpha.1](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-1...react-native-version-check@3.0.0-alpha.1) (2018-02-17)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.0-1"></a>
+
+# [3.0.0-1](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@3.0.0-0...react-native-version-check@3.0.0-1) (2018-02-17)
+
+**Note:** Version bump only for package react-native-version-check
+
+<a name="3.0.0-0"></a>
+
+# [3.0.0-0](https://github.com/kimxogus/react-native-version-check/compare/react-native-version-check@2.3.2...react-native-version-check@3.0.0-0) (2018-02-17)
 
 **Note:** Version bump only for package react-native-version-check
