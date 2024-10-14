@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.5.0 (2024-10-14)
+
+### Bug Fixes
+
+- **expo:** rename getCountryAsync to getCountry ([e55e3ff](https://github.com/tayo-delivus/react-native-version-check/commit/e55e3ff889aa5d980349ac400e928d487b9b36c0))
+
+### Features
+
+- add support for expo sdk v33 ([#88](https://github.com/tayo-delivus/react-native-version-check/issues/88)) ([1aa8d9a](https://github.com/tayo-delivus/react-native-version-check/commit/1aa8d9a9197f86b6a1434d6f65f3a208c433dd4d))
+- **react-native-version-check-expo:** update rnvc ([9fdf131](https://github.com/tayo-delivus/react-native-version-check/commit/9fdf1313c9493c27e019da252a2af837cd858d2c))
+- bump rnvc ([2323829](https://github.com/tayo-delivus/react-native-version-check/commit/2323829e0ae82842d9295ed7e0b22d816e1c6138))
+
 ## [3.2.1](https://github.com/kimxogus/react-native-version-check/compare/v3.2.0...v3.2.1) (2019-05-17)
 
 **Note:** Version bump only for package react-native-version-check-expo
